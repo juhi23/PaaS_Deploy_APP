@@ -1,5 +1,5 @@
 # PaaS open source solutions demonstrated by deploying a Diet Share App
-This project report is an exploratry research on PaaS (Platform as a service) which also presents a comparative analysis of the various PaaS OSS availble in terms of:
+This project report is an exploratry research on PaaS (Platform as a service) which also presents a comparative analysis of the various PaaS OSS available in terms of:
 
 - Architecture &
 - Performance, Interoperability and Scalability 
